@@ -1,0 +1,49 @@
+/* color pallet
+#cad2c5
+#84a98c
+#52796f
+#354f52
+#2f3e46
+*/
+
+body{
+	background-color: #cad2c5;
+}
+div{
+	padding: 0.8rem;
+	float: left;
+}
+.exemplo{
+	height: 25.5rem;;
+	margin: auto;
+	border: 0.5rem solid #cad2c5;
+	background-color: #2f3e46;
+	float: left;
+	color: white;
+	text-align: center;
+}
+.div1{
+	background-color: #cad2c5;
+}
+.div2{
+	background-color: #84a98c;
+}
+.div3{
+	background-color: #cad2c5;
+}
+.texto{
+	color: #2f3e46;
+	border: 0.5rem solid #354f52;
+	height: 25.5rem;
+	width: 40rem;
+	text-align: justify;
+	text-indent: 2rem;
+}
+img{
+	width: 20rem;
+	height: auto;
+	float: right;
+	margin-left: 0.5rem;
+	background-color: #52796f;
+	padding:0.18rem;
+}
